@@ -2,7 +2,7 @@
 
 ## Screenshot Tampilan Aplikasi
 ![Halaman Utama](Dashboard.png)
-
+*Keterangan: Tampilan halaman utama formulir input dan tabel data CRUD Kandungan Gizi.*
 ---
 
 ## Deskripsi Aplikasi
